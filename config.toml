@@ -1,0 +1,60 @@
+baseurl = "https://fir-blog-72386.web.app/"
+languageCode = "en"
+title = "Nicklaus Zhang-Houle"
+theme = "hugo-theme-cactus-plus"
+googleAnalytics = "UA-177314289-1"
+hasCJKLanguage = true 
+
+[params]
+	author = "Nicklaus Zhang-Houle"
+	description = "Blog"
+	bio = "Student and Programmer"
+
+	# twitter = "twitter_id"
+	# facebook = "facebook_id"
+
+	enableRSS = true
+	enableToc = true
+
+	enableDisqus = false
+	disqusShortname = "disqus_OgIKLpIVHD"
+
+
+	enableSummary = true
+	useDescriptionReplaceSummary = false
+
+	enableGoogleAnalytics = true
+	enableBaiduAnalytics = false
+	baiduAnalytics = 'baidu_analysis_code'
+
+	enableTwitterCard = false
+	twitterCardImage = ""
+
+	customCSS = []
+	customJS  = []
+
+	home = ""
+	about = ""
+	archive = ""
+	subscribe = ""
+
+	olderPosts = ""
+	newerPosts = ""
+	copyright = ""
+
+	showLatestPosts = false
+	readMore = ""
+
+	enableShare = true
+	tweet = ""
+	share = ""
+
+	title404 = ""
+	subtitle404 = ""
+
+	iconFont = "font-awesome"
+  socialIconStyle = ""
+
+[social]
+    linkedin-square = "https://www.linkedin.com/in/nicklaus-zhang-houle-1697651b6/"
+	github-square = "https://www.github.com/nicklauszhanghoule"
